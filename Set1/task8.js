@@ -13,3 +13,8 @@ for (let i = 1; i < studentsList.length; i++) {
     }
 }
 console.log(highest.name, highest.marks);
+
+/*
+Expected Output:
+Woods 95.5
+*/

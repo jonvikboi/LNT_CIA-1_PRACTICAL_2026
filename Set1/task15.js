@@ -8,3 +8,10 @@ let studentsList = [
 console.log(Math.round(78.25));
 console.log(Math.max(...studentsList.map(s => s.marks)));
 console.log(Math.random());
+
+/*
+Expected Output:
+78
+92
+<random number between 0 and 1>
+*/

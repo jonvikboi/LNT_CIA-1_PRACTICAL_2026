@@ -16,3 +16,11 @@ for (let i = 0; i < studentsList.length; i++) {
         break;
     }
 }
+
+/*
+Expected Output:
+Evan 85.5
+Dracula 92
+Garena 78.25
+Stopped at Dracula
+*/
